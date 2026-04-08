@@ -108,6 +108,6 @@ InitTestScene*.unity*
 # .env — ігнорувати конкретний файл.
 # Створіть файл за допомогою => touch debug.txt 
 # Перевір статус => git status
-# Додай в ігнорування debug.txt
+debug.txt
 # Перевір статус => git status
 # Файла debug.text немає бути, далі ідіть в docs\task.txt
